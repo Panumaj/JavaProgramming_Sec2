@@ -1,0 +1,5 @@
+Student_id : 2313110575
+Student Name : pnm
+Major : IT
+Level : 1
+Faculty : Information Technology
