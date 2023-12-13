@@ -1,4 +1,4 @@
 ID : 2313110575
 Name-Surname : Panumaj Booncharoensuk
-Date : 29 November 2023
-Topic : Control Statements (Decision, Loop, and Jump Statement)
+Date : 13 December 2023
+Topic : Work with String and the String Method
